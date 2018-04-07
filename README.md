@@ -1,3 +1,3 @@
-# i-love-xkcd
+# I :heart: XKCD
 
-## An application that shares XKCD comics with friends daily.
+## A Slack App that shares an XKCD Comic upon request from a user on the channel
