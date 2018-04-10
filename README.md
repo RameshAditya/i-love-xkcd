@@ -1,6 +1,6 @@
-# I :heart: XKCD
-### A Slack App that shares an XKCD Comic upon request from a user on the channel
------------------------------------------------
+<h1 align = "center"> I :heart: XKCD </h1> <br>
+<p align = "center"> <b> A Slack App that shares an XKCD Comic upon request from a user on the channel </b> </p>
+
 
 ## What I :heart: XKCD is
 I :heart: XKCD is a slack app that parses a channel's message **every 5 seconds** and upon finding an impending `moar` (slang for "more") request sends an XKCD comic directly to the channel, for laughs.
